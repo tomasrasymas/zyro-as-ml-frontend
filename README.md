@@ -1,4 +1,4 @@
-# Zyro as a frontend for machine learning project 
+# Zyro as a frontend for machine learning project - sentiment prediction
 
 Tutorial how to use [Zyro web site builder](https://zyro.com/) as a frontend for machine learning project.
 
